@@ -256,7 +256,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      hide_avatar: true
       share: true
       comments: true
   # _publications
@@ -266,7 +265,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      hide_avatar: true
       share: true
       comments: true
   # _portfolio
