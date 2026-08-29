@@ -255,7 +255,8 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
+      author_profile: true
+      hide_avatar: true
       share: true
       comments: true
   # _publications
@@ -264,7 +265,8 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: false
+      author_profile: true
+      hide_avatar: true
       share: true
       comments: true
   # _portfolio
